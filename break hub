@@ -216,3 +216,53 @@ Section:NewButton("1ST script ", "~", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/fscript4u/script1st.owner-amro/refs/heads/main/1st%20hub"))()
     print("Clicked")
 end)
+local Tab = Window:NewTab("Steal A brainrot")
+local Section = Tab:NewSection("Steals & Cheats")
+Section:NewButton("Chillihub"
+function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua
+"))()
+   print("Clicked")
+end)
+Section:NewButton("Simple GUi"
+function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Qiwikox12/stubrawl/refs/heads/
+main/StealaBrainrot.txt"))()
+   print("Clicked")
+end)
+Section:NewButton("Sigma hub"
+function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Estevansit0/KJJK/refs/heads/m
+ain/PusarX-loader.lua"))()
+   print("Clicked")
+end)
+Section:NewButton("aetherhub"
+function()
+loadstring(game:HttpGet("https://pastefy.app/IA72FmRE/raw?part="
+true))()
+   print("Clicked")
+end)
+Section:NewButton("Arbixhub"
+function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/he
+ads/main/ArbixHubBEST.lua"))()
+   print("Clicked")
+end)
+Section:NewButton("DelfiScript"
+function()
+loadstring(game:HttpGet('https://pastefy.app/44Il7q8s/raw'))()
+   print("Clicked")
+end)
+Section:NewButton("LemonHub"
+function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ffdfeadf0af798741806ea404
+682a938.lua"))()
+   print("Clicked")
+end)
+Section:NewButton("BrinxHub TP [ --key: brinx ]"
+"its disconnect you after steal !"
+function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brinxhub12/brinx-hubb/refs/hea
+ds/main/Brinxhub"))();
+   print("Clicked")
+end)
